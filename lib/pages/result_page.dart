@@ -2,7 +2,7 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-import 'package:task_11_bmi/coustom_text.dart';
+import 'package:task_11_bmi/utils/coustom_text.dart';
 import 'package:task_11_bmi/utils/colors.dart';
 
 class HealthResult extends StatefulWidget {
